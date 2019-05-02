@@ -1,6 +1,8 @@
 # 1801212899-PHBS_BlockChain_2018
 
-##FOREWORD
+
+
+## FOREWORD
 
 We are in an era of dramatic changes.
 
@@ -32,7 +34,7 @@ It is firmly believed that the new era is an open era, in which everyone can par
 
 ## 1. What is Taobao on Chains?
 
-As a platform and bridge connecting the material world and the digital world, Taobao on Chains (TOC)’s goal is to solve the problem of digital asset identification and trading difficulties in the current digital age. However, the blockchain technology that has been highly anticipated by people has encountered problems such as “asset-winding” and “cross-chain circulation. It is difficult to bridge the gap between virtual and reality. The huge potential is suppressed. This program is aimed to create a new type of "a protocol layer - technology layer - application layer" blockchain platform supporting digital asset identification, circulation, and trading.
+As a platform and bridge connecting the material world and the digital world, Taobao on Chains (TOC)’s goal is to solve the problem of digital asset identification and trading difficulties in the current digital age. However, the blockchain technology that has been highly anticipated by people has encountered problems such as “asset-tokenization” and “cross-chain circulation. It is difficult to bridge the gap between virtual and reality. The huge potential is suppressed. This program is aimed to create a new type of "a protocol layer - technology layer - application layer" blockchain platform supporting digital asset identification, circulation, and trading.
 
 •	**In the agreement layer**, TOC will propose a consensus agreement system for asset identification and circulation of “hash mode” structure based on the full investigation of national laws and regulations, social culture and trade habits. 
 •	**In the technical layer**, TOC, through the " TOC Node" [*] technology system to solve the problem of asset chaining and cross-chain circulation.
@@ -46,10 +48,17 @@ The current entity assets confirmation, such as company registration, property t
 
 Different from the above two types of mainstream assets, when people enter the digital age, the "big data" assets, known as the "new era uranium mine", obtained in the interaction process between the user and the platform, due to the lack of means of rights confirming, are ignored or even intentionally encroached and plundered by the platform. User's creativity, attention, relationship, privacy, etc. have become profitable tools for platform giants, and there are not available methods securing individual rights and privacy.
 
-
+| Time        | Involved Institution   |  Influence  |
+| -------   | -----:  | :----:  |
+| Mar-18     | Facebook |   Zuckerberg was questioned by 44 senators at the hearing, Data of up to 3 million users were involved     |
+| Nov-17        |   US Department of Defense, Amazon  |   Pentagon AWSS3 misconfiguration, accidentally exposed 1.8 billion citizen information  |
+| Nov-17        |    Uber    |  Uber conceals large-scale data breaches and gives hackers 100,000 "sealing fees"  |
+|Nov-17        |    Qu Dian    |  Data of millions of students leaks  |
+|Oct-17        |    Dracore Data Sciences    |  The largest data breach in the history of South Africa, more than 30 million customer information is disclosed  |
+|Oct-17        |    Yahoo   |  Yahoo's 3 billion accounts may have all been leaked,  political and supervisory agencies have participated in the investigation  |
+|Sep-17        |    Equifax   |  US credit agency Equifaxi was hacked and nearly half of user information leaked  |
 
 In the field of asset circulation, asset registration and exchange are currently provided by service organizations or industry organizations. However, cumbersome and inefficient processes, outdated equipment and backward systems lead to that assets with low liquidity face security risks in the process of asset registration and exchange. Counterfeiting, breach of contract, information disclosure, data tampering and loss often occur. This centralized asset circulation model has many drawbacks. There is an urgent need for a new solution.
-这里也许可以放一个中心化资产的图
 
 ### 2.2 Industry opportunities brought by the application of blockchain technology
 
@@ -61,7 +70,14 @@ Trust is the foundation of asset exchange.Blockchain technology uses a new encry
 
 The current chaotic, inefficient management of asset management and the non-opacity of asset information have greatly increased the risk of asset management and exchange. The blockchain is supported by a large number of distributed nodes and computer servers on the peer-to-peer network. Each node holds a copy of the blockchain data. The behavior of a single node trying to modify the asset information on the chain can be effectively prevented. With the design of the blockchain incentive mechanism, it can increase the cost of fraudulent business and effectively curb counterfeiting. At present, in the traditional automobile and mobile phone market, the second-hand hand-made goods may be sold at the new product price. In the future, the real value of the goods can be clearly understood through the blockchain, and the merchants are prevented from shoddy.In 2015, the total size of the global copycat market has reached 1.70 billion US dollars, equivalent to about 2.5% of the global GDP.The table below shows the relevant data for the 2022 annual counterfeit and shoddy market predicted by Frontier Economics.
 
-这里是表格
+
+| Time        | Involved Institution   | 
+| ---------   | -----: |
+| International trade in counterfeit and pirated goods  | 991 |
+| Production and consumption of counterfeit and pirated products in the United States     |   524-959  |  
+| Digital piracy value in global movies, music and software      |    384-856    | 
+| Global total value of counterfeit and pirated goods     |    1900-2810    | 
+| Economic and social losses (including unemployment and crime costs caused by counterfeit and pirated products)     |  1540-1870    | 
 
 **(2) Meet the needs of asset supervision and auditing**
 
@@ -81,7 +97,8 @@ The blockchain uses distributed storage and accounting. All exchanged data is di
 
 The traditional asset registration and exchange often face problems such as long process, multiple links, and information asymmetry.The blockchain simplifies the exchange process, reduces the asset information exchange between different asset investment institutions, and saves a large amount of human power, material strength and time, which is of great significance for improving the liquidity of asset investment value.
 
-这里是图片.
+[![ENJaB4.md.png](https://s2.ax1x.com/2019/05/03/ENJaB4.md.png)](https://imgchr.com/i/ENJaB4)
+
 
 ### 2.3 How assets are tokenized and circulated
 
@@ -91,9 +108,9 @@ For example, the car color, the mileage, the model, the year of production and t
 
 (2) **At the same time, multi-party verification is required to assess the final value of the assets.** Taking real estate as an example, since the historical data of real estate transaction is recorded in the blockchain, the Token can motivate users to disclose the property information spontaneously, reducing the information asymmetry between the buyers and sellers. After negotiation, they can use the smart contract to prevent fraudulent transactions, which prevent the seller’s possible loss caused by the arrears of the payment. The specific process is as follows:
 
-这里放图片
+[![ENJdHJ.md.png](https://s2.ax1x.com/2019/05/03/ENJdHJ.md.png)](https://imgchr.com/i/ENJdHJ)
 
-**(3) The smart contract acquires the existing legal status of the asset**, and the degree of association between the asset-winding field and the securitized asset determines that this module's business is subject to policy. In some countries, the law requires that the transfer must take some form of action, and that the real assets are traded on the chain. It also requires the permission of the local party.
+**(3) The smart contract acquires the existing legal status of the asset**, and the degree of association between the asset-tokenization field and the securitized asset determines that this module's business is subject to policy. In some countries, the law requires that the transfer must take some form of action, and that the real assets are traded on the chain. It also requires the permission of the local party.
 
 **(4) In addition, the core problem lies in the accuracy of the mapping of assets on the chain.** In order to ensure the completion of asset delivery and the authenticity of assets, institutions may be required to endorse. However, the protection of false data, forged assets and other issues need to collect information of various dimensions, such as pictures, to add credit to assets. Besides, it needs to adopt a reasonable coding format to guarantee the uniqueness of the asset. For example, a digital fingerprint is generated by a hash function to prevent counterfeiting of the asset.
 
@@ -113,7 +130,7 @@ For example, the car color, the mileage, the model, the year of production and t
 ## 4. TOC's territory
 The future of TOC is aimed at becoming the Taobao in the digital age. In the future, TOC will connect China Unicom's material world and digital world into a center of all kinds of original assets, digital assets and physical assets. It will make asset authentication more secure, and asset circulation on the chain will be more natural, easily, and efficiently. The following is a schematic diagram of the TOC future layout architecture. The protocol-technology-application provided by the three-in-one infrastructure, through the closed-loop interaction with the TOC community, this system can be constantly updated and improved.
 
-图片
+[![ENNaDS.md.png](https://s2.ax1x.com/2019/05/03/ENNaDS.md.png)](https://imgchr.com/i/ENNaDS)
 
 ### 4.1 Protocol layer
 #### 4.1.1 Introduction
@@ -142,13 +159,13 @@ On the one hand, with the golden financial and property rights structure not con
 TOC consensus protocol defines the rules for the tokenization of various types of assets, as well as the standard of the flow of assets between the various chains, based on blockchain technology, through learning the structure of the "class" and the inheritance of the relationship chain, allowing for more assets to be tokenized with flexibility and completeness.
 
 #### 4.1.2 Implement roadmap
-这里是图片
+[![ENJtjU.md.png](https://s2.ax1x.com/2019/05/03/ENJtjU.md.png)](https://imgchr.com/i/ENJtjU)
 
-The protocol layer is connected to virtual and reality, which is the first step and a key step in asset digitization. The ultimate goal is to provide a complete "asset-winding" preparation program that stores real-life (or digitally-owned) assets in a blockchain in some form.
+The protocol layer is connected to virtual and reality, which is the first step and a key step in asset digitization. The ultimate goal is to provide a complete "asset-tokenization" preparation program that stores real-life (or digitally-owned) assets in a blockchain in some form.
 
 To achieve this goal, the solution is provided as following:
 
-**(1) Develop standardization of asset digitization characteristics (hash template)**: For three different types of assets, I extract the digitization features for different categories:
+**(1) Develop standardization of asset digitization characteristics (TOC template)**: For three different types of assets, I extract the digitization features for different categories:
 **a.	Distinguishability:** An asset representation method that can be uniquely identified and verifiable.
 **b.	Compliance:** The process of standardizing asset characteristics should fully consider the legal status of assets, and actively adapt to regulatory and legal standards.
 **c.	General purpose:** Structured (hierarchical) to develop standards, fully extract the same points of assets, so that sub-subclasses inherit the parent-parent class can be produced as much as possible
@@ -180,7 +197,7 @@ This technical requirement is essentially two aspects:
 2.	On the basis of effective implementation of the protocol layer, traceability is guaranteed.That is, the value in the chain b can be traced back to the chain a, ensuring the recognition of the value of the consensus (continuing the example of the jersey, that is, when the chain b is reached, it can still be equivalent to an identical jersey.)
 
 #### 4.2.2 Implement roadmap
-**(1) For the asset-winding problem**, it can be broke down into two sub-sub-problems:
+**(1) For the asset-tokenization problem**, it can be broke down into two sub-sub-problems:
 a.	Digital feature extraction;
 b.	Digital feature winding.
 
@@ -194,13 +211,14 @@ For b, at the technical implementation level, it mainly focus on the following p
 
 (2) **Self-automation deployment:** Compatible with various blockchain networks that meet the requirements of the protocol layer, and automatically compile and deploy the corresponding smart contracts.
 
+[![ENa3lt.md.png](https://s2.ax1x.com/2019/05/03/ENa3lt.md.png)](https://imgchr.com/i/ENa3lt)
+
 There are many researches on asset cross-chain technology. The four mainstream cross-chain technologies are: Notary schemes, Sidechains/relays, Hash-locking, and Distributed private key control. They are mainly used for asset transfers, atomic sub-transactions (simultaneous exchange of inter-chain assets), cross-chain data prophecy (chain a needs to know the proof of the data of chain b), cross-chain execution of the line contract (for example according to the equity certificate of chain a, dividends are distributed on chain b) and cross-chain trading houses (for the protocol, the blockchain that supports the cross-chain operation is not directly supported).
 
 This program is aimed to utilize two things:
 
-1.	Assets are transferred across the chain;
-
-2.	Decentralization.
+**1.	Assets are transferred across the chain;
+2.	Decentralization.**
 
 From a technical point of view, this is actually two relatively independent things (analog than the accounting system, the centralization has solved the need for transfer, and the decentralization has solved the problem of trust).
 
@@ -219,7 +237,7 @@ In the second step, it will “decentralize” the hash relay station. For the b
 
 ### 4.3 Application level
 #### 4.3.1 Introduction
-The goal of application level is to provide users with safe and easy-to-use asset-winding and transfer tools for users, and to provide developers with internalization protocol layer and technology layer blockchain technology. 
+The goal of application level is to provide users with safe and easy-to-use asset-tokenization and transfer tools for users, and to provide developers with internalization protocol layer and technology layer blockchain technology. 
 
 #### 4.3.2 Implementation route
 
@@ -227,15 +245,14 @@ The goal of application level is to provide users with safe and easy-to-use asse
 
 The TOC World will use the mobile end as the entry point to educate grand hands with  high-quality blockchain projects through a gamified way. Specifically, it can be divided into the following three core modules: hash window, hash asset, hash wallet.
 
- - **Hash window: new traffic volume into the entrance**
+ - **TOC Window: new traffic volume into the entrance**
 
-Hash Window adopts a new type of streaming media technology combining human artificial intelligence and blockchain to promote popular blockchain technology and high-quality tokens to users. The streaming media format includes playing games, doing tasks, watching news, etc., and users get the tokens while understanding the purpose of the high-quality token project. The essence of the hash window is to use the user's attention to cash in. Hash Window's human artificial intelligence technology will automatically learn the user's cognitive level and interest distribution from the automatic learning, and truly achieve accurate delivery and real-time feedback, and build a bridge between the project and the user. The Hash Window will be the first portal for users to understand and understand the blockchain.
-Hash Windows also provides high-quality publicity channels and precise touch-up support for a wide range of large-end customers, helping high-quality content providers and content consumers to establish an organic relationship, dynamically matching to meet the needs of different c-end uses the customization requirements of the user and the different b-end users.Really become the center of attention
-Power content distribution platform.
+TOC Window adopts a new type of streaming media technology combining human artificial intelligence and blockchain to promote popular blockchain technology and high-quality tokens to users. The streaming media format includes playing games, doing tasks, watching news, etc., and users get the tokens while understanding the purpose of the high-quality token project. The essence of the TOC Window is to use the user's attention to cash in. TOC Window's human artificial intelligence technology will automatically learn the user's cognitive level and interest distribution from the automatic learning, and truly achieve accurate delivery and real-time feedback, and build a bridge between the project and the user. The TOC Window will be the first portal for users to understand and understand the blockchain.
+TOC Window also provides high-quality publicity channels and precise touch-up support for a wide range of large-end customers, helping high-quality content providers and content consumers to establish an organic relationship, dynamically matching to meet the needs of different c-end uses the customization requirements of the user and the different b-end users. 
 
- - **Hash assets: ERC 721 trading platform**
+ - ** TOC assets: ERC 721 trading platform**
 
-The digitization of assets is one of the greatest applications of blockchain technology. Hash Assets will use the form of virtual real estate auctions to let grand hand users use the cognitive chain block to identify the content of digital assets. Value, the future Hash assets will be the core of the core of the "asset on the chain" digital asset securitization technology.
+The digitization of assets is one of the greatest applications of blockchain technology. TOC assets will use the form of virtual real estate auctions to let grand hand users use the cognitive chain block to identify the content of digital assets. Value, the future TOC assets will be the core of the core of the "asset on the chain" digital asset securitization technology.
 
  - **TOC Wallet: Token wallet with consumer scenes**
 
@@ -244,3 +261,100 @@ Token is the most direct and strong form of the user who becomes a member of the
 Similar to the "balance" in the field of digital currency. TOC Wallet will also expand the application scenarios including the token exchange, the token fund, the gold and the small amount of payment, and so on. Compared with other wallets, the TOC wallet has a huge development space by using hash windows and hash assets to form high frequency and long stickiness for users.
 
 TOC Wallet is aimed to help new users to establish their understanding of digital currency and digital assets. At the same time, it will expand the application scenarios, and let new users realize the charm and fun of the blockchain, so that everyone can enjoy the dividends of blockchain technology development.
+
+## 5. TOC Token
+
+TOC plans to issue TOC coins (TCC) in the future, with a total volume of 50 billion pieces, and it will never issue new coins in addition to the above.
+
+As a circulation right certificate of the protocol layer, technology layer and application layer in TOC system, TCC will have a wide range of application scenarios.
+
+●	**[Protocol Layer]** 
+
+TCC is the authorization certificate used by the "TOC Template" class structure protocol.
+
+The protocol template provides asset-tokenization services. TOC will develop a cross-chain agreement in the future to ensure the "TOC Template" in the entire community of intellectual property, and the user who use the "TOC Template" to achieve the asset chaining process will pay TCC to get the agreement inventor authorization through the smart contract, in order to gain recognition from the public chain communities, besides, the inventors of the agreement will also receive TCC as a reward for innovation.
+
+Therefore, a positive cycle is formed to promote the formation of ecological assets tokenization.
+
+**●	[Technical Layer]**
+
+Hash Pass is a trust certificate for the cross-chain circulation of digital assets.
+
+According to the "hash template" class protocol, the "hash node" of the asset-tokenization service will be provided, and the asset purchase and sale will be obtained through pledge and lock hsc.
+The trust of the parties and the various communities.Therefore, more and more assets in the future, and the circulation, will generate more and more demand for hsc.
+
+**●	[Application layer]** 
+
+TCC will be the only token in the TOC window for streaming media, advertising, TOC asset trading, Payment media, TOC wallet, and other payment procedures.
+
+In the future, TOC will support the entrepreneurs in various segments to carry out business through technology, capital, and ecological empowerment in various industries.
+
+### 5.1 TCC application scenario case 
+
+Alex, who wants to make his own new albums through the blockchain and sell them to his fans, finds Bob for help, who is responsible for providing "asset-tokenization" services. Bob gained community recognition through the lock of 100,000 TCCs, and possessed the “asset-tokenization” qualification, which is the super node of TOC asset-tokenization. The "TOC Template" protocol of Bob's use for audio music assets is developed by Cindy's team of lawyers two years ago to meet the legal regulatory requirements of the mainland, Hong Kong and Silicon Valley, and garantee the consistency between property rights on the chain and off the chain. 
+
+After investigating the property rights materials provided by Alex, Bob signed a service agreement with Alex on asset-tokenization and commission sales, and encrypted the relevant legal documents into a distributed database based on the blockchain to ensure the reality. The copyright of the Alex album in the real world is transferred to the company owned by Bob SuperNode. After that, Bob stores the corresponding protocol according to Cindy's “TOC Template” and stores it on the chain. After multi-party digital signature, it will take effect. Then Bob maps the asset token on the chain through the release line tool provided by TOC Technology.
+
+According to Alex's request, the token will be sold through the smart contract on the TOC world digital asset trading platform. TOC world's digital asset trading platform uses cross-chain technology to support multi-currency trading, providing rich smart contracts to match digital asset transactions, open, transparent, credible and protect property rights and privacy.
+
+Alex's fan David was very interested after seeing the Alex album token on the TOC world platform. He wants to buy a token for the album's interest in advance and look forward to maintaining value. David checkes the "TOC template" protocol of the token and finds that the trust value is very high (the past success stories are recorded on the blockchain), and the service is provided by the super node Bob -- There are 100,000 TCC guaranteed as a mortgage. Therefore， he immediately chooses to snap up. The purchase agreement is completed by the smart contract on the blockchain. The transaction is efficient and fast, and the purchase behavior is completed on the chain. In the course of the transaction, David paid ETH to Alex as the purchase capital, and David paid the TOC with the lock-up period to Bob and Cindy as the service agency fee.
+
+In the entire transaction process, Alex is the final seller, David is the final buyer, and Bob and Cindy are the developers and service providers of the important technical and protocol layers in the TOC ecosystem. TOC world, as an application layer, provides a simple, convenient, and transparent purchase service for users such as David and others. TCC, as a bio-certification of TOC, on the one hand is bought by super node Bob and locked in the warehouse to gain community trust, and on the other side is widely used by ultimate consumers like David to buy digital assets. The more assets in the future are tokenized and traded on the chain, the purchase demand of TCC will be larger. As a result, TCC, with the fixed total amount, has a huge
+appreciation space. At the same time, those who hold TCC can also participate in the voting election of the super node and the evaluation of the TOC Template. Everyone can be the owner of TOC ecosystem.
+
+The following is an example of an application scenario for TCC:
+
+[![ENBkND.md.png](https://s2.ax1x.com/2019/05/03/ENBkND.md.png)](https://imgchr.com/i/ENBkND)
+
+## 6 TCC 's Allocation plan:
+
+●	The total amount of TCC is 50 billion, and will be distributed according to the following rules;
+
+●	Private placement and trading exchange pre-sale: 30%, private placement lock-up period is 1 year;
+
+●	Founding team: 20%, the lock-up period is 4 years;
+
+●	Fund Gold and Ecosystem: 50%, released in 10 years;
+
+## 7 TOC's Community Governance
+
+### 7.1	Governance structure
+
+In order to enable the TOC Fund and association to rationally use the funds on the premise of openness, fairness and transparency and absorb more institutions, companies, and organizations into the  TOC ecosystems. It will be a three-tier organizational structure as follows:
+
+[![ENBA4e.md.png](https://s2.ax1x.com/2019/05/03/ENBA4e.md.png)](https://imgchr.com/i/ENBA4e)
+
+**a)	Management committee**
+
+The Management Committee is the highest decision-making body and assumes the final decision-making function. The management committee members represents the fund vote on the major ecological issues of the agreement.
+
+**b)	Chief executive officer**
+
+The Chief Executive Officer is elected by the Management Committee and is responsible to the Management Committee. The first chief executive officer will comprehensively organize the implementation of the relevant resolutions and regulations of the Management Committee, be responsible for the daily operations of funds, complete the indicators it has issued, and regularly implement the implementation. 
+
+**c)	Expert advisory group**
+
+Well-known politicians, experts, scholars, entrepreneurs and social activists will be invited as consultants to guide and help TOC ecological development.
+
+**d)	Community node**
+
+It will adhere to the spirit of open and transparent governance, and invites community representatives to participate in the co-governing and sharing.
+
+**e)	Protocol Research Group**
+
+A protocol research group will be set up for the development direction and important nodes of the agreement layer, and carry out research on the agreement consensus and the existing legal law.
+
+**f)	Technology platform group**
+
+The Fund will conduct in-depth research on the key issues of the technology layer and the underlying architecture to form a technical platform group. The fund will hold the spirit of open source and sharing and academic research. Therefore, the forms of cultural and open source code are regularly published to the community.
+
+**g)	Applied ecological group**
+
+TOC will aim to guide the application of “landing application”, set up the application ecological group, be responsible for providing sufficient, user-friendly and secure api, foster and guide the developer community, and actively explore and expand cooperation. Partners, to create an open, distributed ecosystem, to form a user community with benign interactions, free flow of information and full symmetry.
+
+### 7.2	TOC's development plan
+
+
+[![ENBV9H.md.png](https://s2.ax1x.com/2019/05/03/ENBV9H.md.png)](https://imgchr.com/i/ENBV9H)
+
+
